@@ -1,0 +1,9 @@
+{
+  "name": "월급 계산기",
+  "short_name": "월급 계산기",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#3568d4",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
